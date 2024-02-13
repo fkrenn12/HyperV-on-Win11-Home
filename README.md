@@ -1,4 +1,4 @@
-# HyperV-on-Win11-Home
+#  Installation of Hyper-V on Win11 Home
 
 ### Windows 11 Home do not have Hyper-V support installed.
 🚀 Here a way to install on Windows 11 🚀
