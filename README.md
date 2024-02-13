@@ -1,9 +1,9 @@
 # HyperV-on-Win11-Home
 
 ### Windows 11 Home do not have Hyper-V support installed.
-Here a way to install on Windows 11
+🚀 Here a way to install on Windows 11 🚀
 
-Copy the following lines into a self created .bat file.
+👉 Copy the following lines into a self created .bat file.
 
 ```sh
 pushd "%~dp0"
@@ -14,6 +14,7 @@ Dism /online /enable-feature /featurename:Microsoft-Hyper-V -All /LimitAccess /A
 pause
 ```
 
-Save the file and execute it with administrator pivileges.<br>
-Then restart the computer adn use Features to aktivate Hyper-V.
+👉 Save the file and execute it with administrator pivileges.<br>
+👉 Then restart the computer <br>
+👉 adn use Features to aktivate Hyper-V.<br>
 
