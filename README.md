@@ -14,7 +14,7 @@ Dism /online /enable-feature /featurename:Microsoft-Hyper-V -All /LimitAccess /A
 pause
 ```
 
-👉 Save the file and execute it with administrator pivileges.<br>
-👉 Then restart the computer <br>
-👉 adn use Features to aktivate Hyper-V.<br>
+👉 Save the file and execute it with administrator pivileges<br>
+👉 Restart the computer<br>
+👉 Search Windows Features and activate Hyper-V<br>
 
